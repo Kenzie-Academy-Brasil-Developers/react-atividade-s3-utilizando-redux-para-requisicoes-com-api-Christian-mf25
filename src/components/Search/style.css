@@ -1,0 +1,28 @@
+.search{
+	background-color: #75c8ff;
+	
+	height: 125px;
+	width: 100vw;
+}
+
+.search-title{ 
+	font-size: 1.7rem;
+	color: #034e6b;
+	margin: 10px;
+}
+
+.digimon-form{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	align-items: center;
+	justify-content: center;
+}
+
+.form-message{
+	margin: 32px;
+}
+
+.error{
+	color: #ff0000;
+}

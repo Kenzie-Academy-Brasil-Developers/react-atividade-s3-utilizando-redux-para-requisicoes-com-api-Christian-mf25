@@ -1,0 +1,46 @@
+.digimon-card{
+	margin-top: 55px;
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.digimon-list{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+
+	width: 90vw;
+}
+
+.digimon-char{
+	margin: 5px;
+	
+	border: #000 solid 2px;
+	border-radius: 15px; 
+
+	background-color: #6633995c;
+}
+
+.digimon-name{
+	color: #444444;
+}
+
+.digimon-level{
+	font-size: 0.9rem;
+	color: #6d6d6d;
+}
+
+.digimon-image{
+	width: 200px;
+	height: 200px;
+
+	border-radius: 15px;
+	border: #000 solid 2px;
+
+	margin: 10px;
+}
